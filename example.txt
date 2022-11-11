@@ -1,0 +1,9 @@
+mple.txt
+ne 1
+ne2
+ne 3
+ne4
+ne5
+ne7
+:wq
+
